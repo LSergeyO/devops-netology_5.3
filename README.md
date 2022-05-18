@@ -19,3 +19,7 @@ https://hub.docker.com/r/lsergeyo/dockerhub/
 - Gitlab сервер для реализации CI/CD процессов и приватный (закрытый) Docker Registry - Docker контейнер.  
 
 3. 
+![img_3.png](img_3.png)  
+
+![img_5.png](img_5.png)
+
